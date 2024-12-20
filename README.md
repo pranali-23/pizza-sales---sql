@@ -1,4 +1,4 @@
-Tite: SQL Project for Pizza Sales
+Title: SQL Project for Pizza Sales
 ### Dataset Description:
 **Name**: Pizza Sales Dataset 
 **Type**: CSV File
